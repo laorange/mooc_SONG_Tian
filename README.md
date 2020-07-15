@@ -1,2 +1,2 @@
 # mooc_SONG_Tian
-用于保存本人学习python基础语法时所写代码以及练习github的使用
+练习使用github，以及保存在mooc学习python基础语法时敲的代码
